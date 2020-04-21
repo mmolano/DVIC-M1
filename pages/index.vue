@@ -177,13 +177,13 @@
                   <tbody>
                     <tr>
                       <th class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4 text-left">
-                        /argon/
+                        /shop
                       </th>
                       <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4">
-                        4,569
+                        5,000
                       </td>
                       <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4">
-                        340
+                        402
                       </td>
                       <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4">
                         <i class="fas fa-arrow-up text-green-500 mr-4"></i>
@@ -192,13 +192,13 @@
                     </tr>
                     <tr>
                       <th class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4 text-left">
-                        /argon/index.html
+                        /contact
                       </th>
                       <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4">
-                        3,985
+                        2,023
                       </td>
                       <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4">
-                        319
+                        102
                       </td>
                       <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4">
                         <i class="fas fa-arrow-down text-orange-500 mr-4"></i>
@@ -207,7 +207,7 @@
                     </tr>
                     <tr>
                       <th class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4 text-left">
-                        /argon/charts.html
+                        /commands/reports
                       </th>
                       <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4">
                         3,513
@@ -222,7 +222,7 @@
                     </tr>
                     <tr>
                       <th class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4 text-left">
-                        /argon/tables.html
+                        /project/list
                       </th>
                       <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4">
                         2,050
@@ -237,7 +237,7 @@
                     </tr>
                     <tr>
                       <th class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4 text-left">
-                        /argon/profile.html
+                        /shop/remember
                       </th>
                       <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4">
                         1,795
@@ -316,7 +316,7 @@
                     </tr>
                     <tr>
                       <th class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4 text-left">
-                        Facebook
+                        Reddit
                       </th>
                       <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4">
                         5,480
@@ -337,7 +337,7 @@
                     </tr>
                     <tr>
                       <th class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4 text-left">
-                        Google
+                        LinkedIn
                       </th>
                       <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-no-wrap p-4">
                         4,807

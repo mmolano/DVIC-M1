@@ -71,53 +71,51 @@
         <!-- Navigation -->
         <ul class="md:flex-col md:min-w-full flex flex-col list-none">
           <li class="items-center">
-            <a
-              class="text-pink-500 hover:text-pink-600 text-xs uppercase py-3 font-bold block"
-              href="#/dashboard"
+            <nuxt-link
+              class="text-gray-800 hover:text-pink-600 text-xs uppercase py-3 font-bold block"
+              to="/"
               ><i class="fas fa-tv opacity-75 mr-2 text-sm"></i>
-              Dashboard</a
+              Dashboard</nuxt-link
+            >
+          </li>
+          <li class="items-center">
+            <nuxt-link
+              class="text-gray-800 hover:text-pink-600 text-xs uppercase py-3 font-bold block"
+              to="/profile"
+            ><i class="fas fa-user-circle text-gray-500 mr-2 text-sm"></i>
+              CUSTOMER CARD (ADMIN)</nuxt-link
             >
           </li>
           <li class="items-center">
             <a
-              class="text-gray-800 hover:text-gray-600 text-xs uppercase py-3 font-bold block"
-              href="#/landing"
-              ><i class="fas fa-newspaper text-gray-500 mr-2 text-sm"></i>
-              Landing Page</a
+              class="text-gray-800 hover:text-pink-600 text-xs uppercase py-3 font-bold block"
+              href="#bills"
+            ><i class="fas fa-user-circle text-gray-500 mr-2 text-sm"></i>
+              BILLS</a
             >
           </li>
           <li class="items-center">
             <a
-              class="text-gray-800 hover:text-gray-600 text-xs uppercase py-3 font-bold block"
-              href="#/profile"
-              ><i class="fas fa-user-circle text-gray-500 mr-2 text-sm"></i>
-              Profile Page</a
+              class="text-gray-800 hover:text-pink-600 text-xs uppercase py-3 font-bold block"
+              href="#project"
+            ><i class="fas fa-user-circle text-gray-500 mr-2 text-sm"></i>
+              ADD PROJECT</a
             >
           </li>
           <li class="items-center">
             <a
-              class="text-gray-800 hover:text-gray-600 text-xs uppercase py-3 font-bold block"
-              href="#/login"
-              ><i class="fas fa-fingerprint text-gray-500 mr-2 text-sm"></i>
-              Login</a
+              class="text-gray-800 hover:text-pink-600 text-xs uppercase py-3 font-bold block"
+              href="#contact-us"
+            ><i class="fas fa-user-circle text-gray-500 mr-2 text-sm"></i>
+              TIME MANAGEMENT</a
             >
           </li>
           <li class="items-center">
             <a
-              class="text-gray-400 text-xs uppercase py-3 font-bold block"
-              href="#pablo"
-              ><i
-                class="fas fa-clipboard-list text-gray-400 mr-2 text-sm"
-              ></i>
-              Register (soon)</a
-            >
-          </li>
-          <li class="items-center">
-            <a
-              class="text-gray-400 text-xs uppercase py-3 font-bold block"
-              href="#pablo"
-              ><i class="fas fa-tools text-gray-400 mr-2 text-sm"></i>
-              Settings (soon)</a
+              class="text-gray-800 hover:text-pink-600 text-xs uppercase py-3 font-bold block"
+              href="#contact-us"
+            ><i class="fas fa-user-circle text-gray-500 mr-2 text-sm"></i>
+              CONTACT US</a
             >
           </li>
         </ul>

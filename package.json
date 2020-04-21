@@ -11,6 +11,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@adonisjs/cli": "^4.0.12",
     "@popperjs/core": "^2.3.3",
     "chart.js": "^2.9.3",
     "nuxt": "^2.0.0"

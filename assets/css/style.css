@@ -1,0 +1,22 @@
+.nuxt-link-exact-active {
+   color: #ed64a6;
+ }
+.centered-vert {
+  margin: auto;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  transform: translateY(-50%);
+}
+
+.log-h1 {
+  text-align: center;
+  margin: 7px;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.bg-pink-600 {
+  background-color: #92d2ff !important;
+}
